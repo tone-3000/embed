@@ -89,7 +89,7 @@ interface Tone {
     // ...
   };
   gear: 'amp' | 'full-rig' | 'pedal' | 'outboard' | 'ir';
-  platform: 'nam' | 'ir' | 'aida-x' | 'aa-snapshot' | 'proteus';
+  images: string[];
   license: string; // e.g., 'cc-by', 't3k', etc.
   models: Model[]; // Array of associated models/files
   // ... other metadata like makes, tags, counts
