@@ -2,7 +2,7 @@
 
 This project demonstrates how to integrate with the TONE3000 through the *BETA* embedable.
 
-![screenshot](https://raw.githubusercontent.com/tone-3000/t3k-api/refs/heads/main/src/assets/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/tone-3000/embed/refs/heads/main/public/app.png)
 
 ## Development
 
